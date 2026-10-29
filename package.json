@@ -1,0 +1,3 @@
+{ "name": "vda-demo-target", "version": "0.1.0", "type": "module", "private": true,
+  "description": "Demo target repo for Vespera Day Agent: real PRs with real review and CI history.",
+  "scripts": { "test": "node --test test/" }, "license": "MIT" }
